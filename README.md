@@ -9,7 +9,7 @@ I care deeply about **customer driven applications**, **simplicity**, and **buil
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Current Tech Stack
 
 ### Frontend
 - Angular / typescript
