@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Kai Ritterbusch
 
 I'm a **Software Architect & Full-Stack Developer** working mainly with  
 **Angular, Spring Boot (Kotlin), Kubernetes and CI/CD pipelines**.
