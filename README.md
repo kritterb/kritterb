@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**kritterb/kritterb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Architect & Full-Stack Developer** working mainly with  
+**Angular, Spring Boot (Kotlin), Kubernetes and CI/CD pipelines**.
 
-Here are some ideas to get you started:
+Currently focused on building a customer centric web portal to manage transportations for a **german logistic company**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care deeply about **customer driven applications**, **simplicity**, and **building systems that scale — technically and organizationally**.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- Angular / typescript
+- Nx Monorepo
+- Reactive Forms, Signals
+- Playwright (E2E), Jest
+
+### Backend
+- Spring Boot (Kotlin)
+- OAuth2 / OIDC (Auth0, OAuth2-Proxy)
+- DocumentDB & MongoDB / Oracle
+
+### DevOps & Cloud
+- Kubernetes
+- GitLab CI/CD
+
+### Architecture & Practices
+- Modular Monoliths & Distributed Systems
+- CI/CD driven development
+
+---
+
+## 🚀 Current Focus
+
+- Customer driven web portal for transportation management 
+- Give customer full transparency of their logistic workflow
+- Order -> Manage -> Track
+
+---
+
+## 🧠 How I Work
+
+- Customer focused and product driven
+- Simple solutions first, extensible when needed
+- Pragmatic, but quality-driven
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/kritterb
+- LinkedIn: https://www.linkedin.com/in/kai-ritterbusch-aa7818170
